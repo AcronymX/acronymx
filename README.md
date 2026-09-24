@@ -19,15 +19,17 @@ In this section, you'll find a variety of projects in cloud architecture, Infras
 
 - **Automation**: Cloud/Azure/Automation
 - **Identity & Governance**: Cloud/Azure/Identity & Governance
-- **Networking**: [ -> Hybrid Cloud and On-Premises Connectivity Simulation](https://github.com/AcronymX/hybrid-cloud-on-prem-simulation)
+- **Networking**: [Set up a Simulated Hybrid Connection: Cloud to On-Prem](https://github.com/AcronymX/hybrid-cloud-on-prem-simulation)
 - **Storage**: Cloud/Azure/Storage
-<br>
+
 ---
+
 <img src="Images/Amazon_Web_Services_Logo.svg" alt="My SVG Image" width="130" height="50"/>
 
 - **Architecture**: [A complete architecture Diagram for a simple webshop with DevOps integration]
-<br>
+
 ---
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" alt="My SVG Image" width="275" height="35"/>
 
 - **Cloud**: Coming soon!
@@ -38,4 +40,4 @@ Feel free to reach out if you have any questions about my work!
 
 - **Email**: [benhol84@gmail.com](mailto:benhol84@gmail.com)
 
-Thank you for visiting my portfolio! 🙌
+Thank you for visiting my Portfolio! 🙌
