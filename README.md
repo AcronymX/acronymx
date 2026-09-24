@@ -1,5 +1,5 @@
 # ℹ️ About
-👋 WELCOME to my 💼 **Portfolio** – featuring diverse projects in 🧑‍💻 Programming, 🖼️ Design, and Professional ✍️ Writing, showcasing not only 🤖 technical stuff but also innovative ✨ concepts born from creative 🧠 ideas. Each project starts with a clear objective 🌟 that will be transformed into a tangible solution 💡, demonstrating my commitment to both 🛠️ functionality and 🎨 aesthetics. I have created all 🗺️ diagrams, 🖌️ designs, and presentation 📸 images by myself, ensuring a cohesive and authentic presentation of my work 🚀
+👋 WELCOME to my 💼 **Portfolio** – featuring diverse projects in 🧑‍💻 Programming, 🖼️ Design, and Professional ✍️ Writing, showcasing not only technical stuff but also innovative concepts born from creative ideas. Each project starts with a clear objective that will be transformed into a tangible solution 💡, demonstrating my commitment to both functionality and aesthetics. I have created all 🗺️ diagrams, 🖌️ designs, and presentation 📸 images by myself, ensuring a cohesive and authentic presentation of my work 🚀
 
 ## 📜 Table of contents
 -  ☁️ [Cloud](#️-cloud)
