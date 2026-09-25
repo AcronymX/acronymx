@@ -15,7 +15,7 @@ Welcome to my GitHub 👤 Here, you will find all my repositories organized by c
 - 🛡️ [Cybersecurity](#️-cybersecurity)
 - 📝 [Technical Writing](#-technical-writing)
 - 🧠 [Project Planning & Concepts](#-project-planning--concepts)
-- 📫 [Get in Touch](#get-in-touch)
+- 📫 [Get in Touch](#-get-in-touch)
 
 ## ☁️ Cloud
 In this section, you'll find a variety of projects in cloud architecture, Infrastructure as Code (IaC) and such.
@@ -34,7 +34,7 @@ In this section, you'll find a variety of projects in cloud architecture, Infras
 
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="My SVG Image" width="130" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="C/C++" width="130" height="50"/>
 
 - **Architecture**: [A complete architecture Diagram for a simple webshop with DevOps integration]
 
@@ -58,7 +58,8 @@ Showcase your frontend projects here.
 
 ### 📟 Terminal
 
-#### C/C++
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="My SVG Image" width="100" height="35"/>
+
 - **[Multi Instant Circular Queue](https://github.com/yourusername/multi-instant-circular-queue)**:
 A multiple instance circular queue using a circular singly linked list to store and restore data of type int.
 
