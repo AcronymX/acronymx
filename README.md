@@ -1,5 +1,5 @@
 # ℹ️ About
-Welcome to my GitHub 👤 Here, you will find all my repositories organized by category, highlighting my personal 💼 **Portfolio**. The collection includes a diverse range of projects in 🧑‍💻 programming, 🎨 design, and writing ✍️, showcasing not only technical stuff but also innovative concepts born from creative ideas. Each project starts with a clear objective that will be transformed into a tangible solution, demonstrating my commitment to both functionality and aesthetics. In all my repos, diagrams, designs, and technical documents have been created by me personally, ensuring a cohesive and authentic presentation of my work.
+Welcome to my GitHub 👤 Here, you will find all my repositories organized by category, highlighting my personal 💼 **Portfolio**. The collection includes a diverse range of projects in 🧑‍💻 programming, 🎨 design, and writing ✍️, showcasing not only technical stuff but also innovative concepts born from creative ideas. Each project starts with a clear objective that will be transformed into a tangible solution, demonstrating my commitment to both functionality and aesthetics. In all my repos, the diagrams, designs, and technical documents have been created by me personally, ensuring a cohesive and authentic presentation of my work.
 
 ## 📜 Table of contents
 -  ☁️ [Cloud](#️-cloud)
